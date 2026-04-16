@@ -76,7 +76,7 @@ for Mérida, orchestrated with Apache Airflow and TaskFlow API.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suny-ricarte-ramirez-perez-8a630b24b)
 
-)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunyrp7904@gmail.com)
 
 ---
