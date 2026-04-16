@@ -1,87 +1,104 @@
 <div align="center">
 
-# Hey! I'm Suny 👋
+# Hey, I'm Suny 👋
 
-### Data Science TSU · Universidad Politécnica de Yucatán  
+### Data Engineer in Progress | Data Science @ UPY  
 #### Mérida, Yucatán, México 🇲🇽
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 🚀 About Me
 
-I'm a **Data Science** student focused on **Data Engineering**.
+I design and build **end-to-end data systems** focused on:
 
-I'm passionate about building robust data pipelines, automating ETL processes,  
-and applying data analysis to real business problems.
+- ⚡ **Streaming pipelines** (real-time data processing)
+- 🏗️ **Batch ETL workflows** (data ingestion & transformation)
+- 🔄 **Orchestration & automation** (scalable pipelines)
 
-Currently, I'm developing an e-commerce platform for a family accessories business,  
-integrating sales analytics and data automation.
-
-- 🔭 Working on: Web platform with **FastAPI + Next.js + PostgreSQL**
-- 🌱 Learning: **Apache Airflow · Next.js · RFM Analysis**
-- 🎯 Goal: Deliver solutions with **software and AI**
-- 🎸 Outside of code: I play **guitar and piano**
+Currently developing data-driven solutions for a **real e-commerce business**,  
+integrating analytics, automation, and backend systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Bring
+
+- Build **production-style data pipelines** (batch + streaming)
+- Apply **Medallion Architecture (Bronze → Gold)**
+- Design **scalable data workflows with Docker**
+- Transform raw data into **actionable insights**
+
+---
+
+## ⚙️ Tech Stack
 
 ### 💻 Languages
+Python · SQL · JavaScript · HTML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Data Engineering
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### ⚡ Data Engineering
+Apache Kafka · Apache Airflow · PostgreSQL · MongoDB · MySQL · Pandas
 
 ### 🚀 Backend & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+FastAPI · Docker · Git
 
 ---
 
 ## 📂 Featured Projects
 
-### ⚡ Kafka Sales Pipeline
+### ⚡ Kafka Sales Pipeline (Streaming)
 
-Real-time data pipeline for processing sales events using **Apache Kafka**.  
-Designed to simulate streaming data ingestion and transformation for analytics.
+Real-time data pipeline simulating **sales event ingestion and processing**  
+using Apache Kafka.
 
-[🔗 View Repository](https://github.com/SunyPR/kafka-sales-pipeline)
+- Designed event-driven architecture for streaming data  
+- Simulated real-world ingestion and transformation flow  
 
-**Tech:** Apache Kafka · Python · Streaming · Data Pipeline
+🔗 https://github.com/SunyPR/kafka-sales-pipeline  
+**Tech:** Kafka · Python · Streaming · Data Pipeline
 
 ---
 
-### 🌌 Star Wars ETL Pipeline
+### 🌌 Star Wars ETL Pipeline (Batch)
 
-End-to-end ETL pipeline using **Medallion Architecture (Bronze → Gold)**  
-to process and transform data from the **SWAPI API** into MongoDB.
+End-to-end ETL pipeline using **Medallion Architecture**:
 
-[🔗 View Repository](https://github.com/SunyPR/starwars-medallion-etl)
+- Bronze: Raw API ingestion (SWAPI)  
+- Gold: Cleaned + enriched dataset (BMI calculation, normalization)  
 
+- Implemented data cleaning and feature engineering  
+- Designed NoSQL data model in MongoDB  
+
+🔗 https://github.com/SunyPR/starwars-medallion-etl  
 **Tech:** Python · MongoDB · Docker · ETL · Medallion Architecture
 
 ---
 
-### 🌦️ Weather ETL — Mérida
+### 🌦️ Weather ETL — Mérida (Orchestration)
 
-Automated pipeline that extracts weather data from the **Open-Meteo API**,  
-orchestrated with **Apache Airflow (TaskFlow API)** and stored in PostgreSQL.
+Automated pipeline extracting weather data from the **Open-Meteo API**,  
+orchestrated with Apache Airflow.
 
-**Tech:** Apache Airflow · Python · Open-Meteo API · PostgreSQL
+- Built scheduled workflows using TaskFlow API  
+- Stored structured data in PostgreSQL  
+
+**Tech:** Airflow · Python · PostgreSQL · APIs
+
+---
+
+## 🏗️ Data Engineering Mindset
+
+I approach projects as **complete data systems**, not isolated scripts:
+
+```text
+Batch:     API → ETL → Database → Analytics
+Streaming: Producer → Kafka → Consumer → Storage
+```
+
+Focused on:
+- Data reliability  
+- Pipeline automation  
+- Scalable architecture  
 
 ---
 
@@ -99,14 +116,13 @@ orchestrated with **Apache Airflow (TaskFlow API)** and stored in PostgreSQL.
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suny-ricarte-ramirez-perez-8a630b24b)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunyrp7904@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/suny-ricarte-ramirez-perez-8a630b24b)  
+Gmail: sunyrp7904@gmail.com  
 
 ---
 
 <div align="center">
 
-<i>Building from Mérida, Yucatán 🌵</i>
+<i>Building scalable data systems from México 🌵</i>
 
 </div>
