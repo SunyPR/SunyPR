@@ -65,14 +65,14 @@ Designed to simulate streaming data ingestion and transformation for analytics.
 
 ---
 
-### 🌟 ETL Pipeline — Star Wars Data
+### 🌌 Star Wars ETL Pipeline
 
-Full pipeline using **Medallion Architecture (Bronze → Silver → Gold)**  
-built with **Python, Docker, and MongoDB**.  
+End-to-end ETL pipeline using **Medallion Architecture (Bronze → Gold)**  
+to process and transform data from the **SWAPI API** into MongoDB.
 
-Presented at UPY's high school expo.
+[🔗 View Repository](https://github.com/SunyPR/starwars-medallion-etl)
 
-**Tech:** Python · Docker · MongoDB · ETL · Medallion Architecture
+**Tech:** Python · MongoDB · Docker · ETL · Medallion Architecture
 
 ---
 
