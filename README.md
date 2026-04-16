@@ -38,6 +38,7 @@ integrating sales analytics and data automation.
 ### ⚙️ Data Engineering
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,6 +53,17 @@ integrating sales analytics and data automation.
 ---
 
 ## 📂 Featured Projects
+
+### ⚡ Kafka Sales Pipeline
+
+Real-time data pipeline for processing sales events using **Apache Kafka**.  
+Designed to simulate streaming data ingestion and transformation for analytics.
+
+[🔗 View Repository](https://github.com/SunyPR/kafka-sales-pipeline)
+
+**Tech:** Apache Kafka · Python · Streaming · Data Pipeline
+
+---
 
 ### 🌟 ETL Pipeline — Star Wars Data
 
