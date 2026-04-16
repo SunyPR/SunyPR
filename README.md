@@ -33,15 +33,17 @@ integrating analytics, automation, and backend systems.
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-Python · SQL · JavaScript · HTML
-
 ### ⚡ Data Engineering
-Apache Kafka · Apache Airflow · PostgreSQL · MongoDB · MySQL · Pandas
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 Languages
+Python · SQL · JavaScript
 
 ### 🚀 Backend & Tools
 FastAPI · Docker · Git
-
 ---
 
 ## 📂 Featured Projects
