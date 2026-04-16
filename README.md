@@ -2,7 +2,7 @@
 
 # Hey, I'm Suny 👋
 
-### Data Engineer in Progress | Data Science @ UPY  
+### Data Engineer | Data Science @ UPY  
 #### Mérida, Yucatán, México 🇲🇽
 
 </div>
