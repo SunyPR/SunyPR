@@ -32,6 +32,7 @@ integrating analytics, automation, and backend systems.
 ---
 
 ## ⚙️ Tech Stack
+Focused on building batch and streaming data pipelines
 
 ### ⚡ Data Engineering
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
