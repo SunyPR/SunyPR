@@ -8,7 +8,6 @@
 
 [](https://git.io/typing-svg)
 
-\</div\>
 
 -----
 
